@@ -1,0 +1,37 @@
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dossiers Spotlight et Corbeille
+.Spotlight-V100
+.Trashes
+
+# Fichiers temporaires de l’éditeur
+*~
+*.swp
+*.swo
+
+# Fichiers de compilation
+*.o
+*.obj
+*.exe
+*.out
+*.elf
+
+# Fichiers de logs
+*.log
+
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.bin
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+
+# Sauvegardes diverses
+*.bak
